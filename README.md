@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# RSA Encryptor
 
-## Getting Started
+A secure and efficient RSA encryption tool built using **Next.js** and **TypeScript**. This project enables users to encrypt and decrypt messages using the **RSA algorithm**, ensuring data security and confidentiality.
 
-First, run the development server:
+## 🚀 Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- 🔐 **RSA Encryption & Decryption**
+- 📜 **Secure Key Generation**
+- 📡 **Fast and Efficient Processing**
+- 🎨 **Modern UI with Next.js**
+- 📌 **Optimized for Performance**
+
+## 📂 Project Structure
+
+```
+rsa-frontend/
+│-- src/                # Source code (components, pages, utils)
+│-- public/             # Static assets
+│-- node_modules/       # Dependencies
+│-- .next/              # Next.js build output
+│-- package.json        # Dependencies and scripts
+│-- tsconfig.json       # TypeScript configuration
+│-- next.config.ts      # Next.js configuration
+│-- README.md           # Project documentation
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Installation & Setup
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/cursorhigh/rsa-encryptor.git
+   cd rsa-frontend
+   ```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
 
-## Learn More
+3. Start the development server:
+   ```sh
+   npm run dev
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+4. Open in browser:
+   ```
+   http://localhost:3000
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📜 License
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This project is open-source and available under the **MIT License**.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### ❤️ Made with Dedication by  
+**Swadhin Maharana** & **Aaryan**  
+🚀 *Committed to Secure Communications*  
