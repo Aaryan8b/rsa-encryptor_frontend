@@ -54,5 +54,6 @@ This project is open-source and available under the **MIT License**.
 ---
 
 ### ❤️ Made with Dedication by  
-**Swadhin Maharana** & **Aaryan**  
+[**Swadhin**](https://github.com/cursorhigh) & [**Aaryan**](https://github.com/Aaryan8b)  
 🚀 *Committed to Secure Communications*  
+
