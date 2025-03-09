@@ -1,4 +1,4 @@
-# RSA Encryptor
+# RSA Encryptor/decryptor
 
 A secure and efficient RSA encryption tool built using **Next.js** and **TypeScript**. This project enables users to encrypt and decrypt messages using the **RSA algorithm**, ensuring data security and confidentiality.
 
